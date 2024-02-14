@@ -1,0 +1,1 @@
+This is my first project where I am using Spring Boot for the backend, MongoDB as the database, alongside React.js for the frontend. In this project, I have implemented simple API calls to fetch and add data to the database.
